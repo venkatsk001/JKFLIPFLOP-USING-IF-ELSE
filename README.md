@@ -48,9 +48,6 @@ step-6 Run the program.
 **PROGRAM**
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
-Developed by:AADITHYA.R
-RegisterNumber:212223240001
-*/
 
 module JKFLIPFLOP(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
